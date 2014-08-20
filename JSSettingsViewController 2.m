@@ -10,6 +10,7 @@
 @property (nonatomic, strong) NSArray *test1;
 @property (nonatomic, strong) NSArray *test2;
 @property (nonatomic, strong) NSArray *test3;
+@property (nonatomic, strong) NSArray *test4;
 @end
 
 
